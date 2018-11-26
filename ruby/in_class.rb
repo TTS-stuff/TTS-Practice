@@ -3,7 +3,7 @@ numbers=[]
 puts "Give me a number."
 num=gets.chomp.to_i
 numbers<<num
-
+jhg
 end
 
 puts numbers.reduce(:+)
