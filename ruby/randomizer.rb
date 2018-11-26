@@ -7,3 +7,6 @@ the_one = random
 
 puts "The lucky student is #{the_one}"
 system("say 'the lucky student is, #{the_one}'")
+
+
+"hello"
