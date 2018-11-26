@@ -1,5 +1,5 @@
 numbers=[]
-5.times do
+10.times do
 puts "Give me a number."
 num=gets.chomp.to_i
 numbers<<num
